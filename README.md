@@ -11,3 +11,6 @@
 - [RedirectChecker](https://www.redirect-checker.org/)
 ## E-mail Deliverablity Tester
 - [MxToolbox](https://mxtoolbox.com/deliverability)
+## SSL Checking
+- [SSL Shopper](https://www.sslshopper.com/ssl-checker.html)
+- [LiquidWeb SSL Checker](https://sslcheck.liquidweb.com/)
