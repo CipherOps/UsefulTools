@@ -17,6 +17,8 @@
 - [SSL Labs](https://ssllabs.com/ssltest)
 - [SSL Shopper](https://www.sslshopper.com/ssl-checker.html)
 - [LiquidWeb SSL Checker](https://sslcheck.liquidweb.com/)
+## Robots.txt checking
+- [Merkle](technicalseo.com/tools/robots-txt/)
 ## Reverse DNS
 - [DNSlytics](https://dnslytics.com/reverse-ip)
 ## IP Lookup
