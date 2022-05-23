@@ -2,6 +2,8 @@
 ## Website Safety Tests
 - [urlvoid](https://urlvoid.com)
 - [VirusTotal](https://virustotal.com)
+- [Sucuri SiteCheck](https://sitecheck.sucuri.net/)
+- [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search?hl=en)
 ## Website speed checkers
 - [WebPageTest](https://www.webpagetest.org/)
 - [GTMetrix](https://gtmetrix.com/)
